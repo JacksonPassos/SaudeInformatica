@@ -1,0 +1,31 @@
+.background{
+  background: url('./img/bg-banner.jpg');
+  background-size: cover;
+  min-height: 650px;
+  position: relative;
+
+}
+nav{
+  background-color: transparent
+}
+nav.container img{
+  width: 8vw;
+  position: relative;
+  padding: 1vw;
+}
+.banner-info {
+  padding-top: 190px;
+  text-align: center;
+  color: white;
+}
+.bg-color{
+  background-color: rgba(13, 70, 83, 0.78);
+  min-height: 650px;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: #325C6A;
+}
